@@ -1,3 +1,3 @@
 *.ipch
 *.db
-opencv-test/opencv-test/*.jpg
+*.jpg
