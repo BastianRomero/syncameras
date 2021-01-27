@@ -1,21 +1,2 @@
 ﻿  opencv-test.cpp
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\thread(43,14): error C2672: 'invoke': no se encontró una función sobrecargada que coincida
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\thread(49): message : Vea la referencia a la creación de una instancia de la función plantilla "unsigned int std::thread::_Invoke<_Tuple,0,1>(void *) noexcept" que se está compilando
-          with
-          [
-              _Tuple=_Tuple
-          ]
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\thread(55): message : Vea la referencia a la creación de una instancia de la función plantilla "unsigned int (__cdecl *std::thread::_Get_invoke<_Tuple,0,1>(std::integer_sequence<size_t,0,1>) noexcept)(void *)" que se está compilando
-C:\Users\BastianRomeroMardone\source\repos\opencv-test\opencv-test\opencv-test.cpp(66): message : Vea la referencia a la creación de una instancia de la función plantilla "std::thread::thread<cv::VideoCapture&,int,0>(_Fn,int &&)" que se está compilando
-          with
-          [
-              _Fn=cv::VideoCapture &
-          ]
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\thread(39,5): error C2893: No se pudo especializar la plantilla de función "unknown-type std::invoke(_Callable &&,_Ty1 &&,_Types2 &&...) noexcept(<expr>)"
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\type_traits(1588): message : vea la declaración de 'std::invoke'
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\thread(39,5): message : Con los siguientes argumentos de plantilla:
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\thread(39,5): message : '_Callable=cv::VideoCapture'
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\thread(39,5): message : '_Ty1=int'
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\thread(39,5): message : '_Types2={}'
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\thread(39,5): error C2780: 'unknown-type std::invoke(_Callable &&) noexcept(<expr>)': se esperan 1 argumentos; 2 proporcionados
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\type_traits(1582): message : vea la declaración de 'std::invoke'
+  opencv-test.vcxproj -> C:\Users\BastianRomeroMardone\source\repos\syncameras\opencv-test\x64\Debug\opencv-test.exe

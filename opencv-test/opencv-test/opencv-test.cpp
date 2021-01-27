@@ -63,7 +63,7 @@ int main(int argc, char** argv)
 
 	VideoCapture cap(0); 
 	
-	thread cam_fps(cap, 60);
+	cam_fps(cap, 60);
 
 	return 0;
 }
