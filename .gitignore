@@ -1,3 +1,5 @@
 *.ipch
 *.db
 *.jpg
+*.VC
+*.VC.db
