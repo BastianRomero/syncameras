@@ -1,0 +1,5 @@
+﻿  Proyecto1_fotografiar.cpp
+D:\Códigos\Proyecto1\Proyecto1_fotografiar\Proyecto1_fotografiar\Proyecto1_fotografiar.cpp(66,32): warning C4101: 'width_final': variable local sin referencia
+D:\Códigos\Proyecto1\Proyecto1_fotografiar\Proyecto1_fotografiar\Proyecto1_fotografiar.cpp(66,18): warning C4101: 'height_final': variable local sin referencia
+D:\Códigos\Proyecto1\Proyecto1_fotografiar\Proyecto1_fotografiar\Proyecto1_fotografiar.cpp(69,10): warning C4101: 'user': variable local sin referencia
+  Proyecto1_fotografiar.vcxproj -> D:\Códigos\Proyecto1\Proyecto1_fotografiar\x64\Debug\Proyecto1_fotografiar.exe
